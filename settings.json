@@ -1,0 +1,32 @@
+{
+    "editor.fontSize": 20,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.tabSize": 2,
+    // 스페이스 관련
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "debug.inlineValues": true,
+    "debug.toolBarLocation": "docked",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/logs": true
+    },
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "D2Coding",
+    "terminal.integrated.fontSize": 18,
+    "breadcrumbs.enabled": true,
+    "terminal.external.windowsExec": "C:\\cmder\\bin\\cmder.exe",
+    "insertDateString.format": "YYYY-MM-DD hh:mm:ss ZZZZ",
+    "terminal.integrated.fontFamily": "D2Coding",
+    "code-eol.color": "#555555",
+    "php.validate.run": "onType",
+    "eslint.enable": false,
+    "editor.autoIndent": false,
+    "vim.autoindent": false,
+}
